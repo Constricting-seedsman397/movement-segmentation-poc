@@ -1,0 +1,4 @@
+octron-mouse-interaction/
+.ipynb_checkpoints/
+.venv/
+__pycache__/

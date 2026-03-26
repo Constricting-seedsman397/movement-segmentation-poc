@@ -1,0 +1,8 @@
+movement
+xarray
+dask
+zarr
+scipy
+numpy
+matplotlib
+jupyter
